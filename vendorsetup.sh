@@ -1,5 +1,3 @@
-export TW_DEFAULT_LANGUAGE="en1ON="/dev/block/mapper/system"
-export FOX_RECOVERY_VENDOR_PARTITION="/dev/block/mapper/vendor"
 export OF_USE_MAGISKBOOT=1
 export OF_USE_MAGISKBOOT_FOR_ALL_PATCHES=1
 export OF_KEEP_DM_VERITY=1
